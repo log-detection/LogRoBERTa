@@ -1,4 +1,4 @@
-LogRoBERTa: An Innovative Model for Detecting Hidden Anomalies in Long and Complex Log Sequences
+# LogRoBERTa: An Innovative Model for Detecting Hidden Anomalies in Long and Complex Log Sequences
 
 ![alt](img/overview.jpg)
 
