@@ -14,7 +14,7 @@ This paper introduces an innovative log detection model named ***LogRoBERTa***. 
 
 - You can refer to the code structure of our LogRoBERTa model in the files *`LogRoBERTa_HDFS.py`* and *`LogRoBERTa_BGL.py`*. *`LogRoBERTa_HDFS.py`* is designed for the HDFS dataset, while *`LogRoBERTa_BGL.py`* is designed for the BGL dataset.
 
-- In the paper's Section ***V. EXPERIENCES -> C. RQ3: Comparative Enhancement Effects of Each Module in LogRoBERTa***, you will find our specific configurations and experimental results for our comparative experiments located in the Module folder.
+- In the paper's Section ***V. EXPERIENCES -> C. RQ3: Comparative Enhancement Effects of Each Module in LogRoBERTa***, you will find our specific configurations and experimental results for our comparative experiments located in the **`Module`** folder.
 
 #### TABLE IV: Settings of the Three Modules.
 | Model       | Module 1 | Module 2 | Module 3  |
